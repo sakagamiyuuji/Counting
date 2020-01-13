@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counting</string>
+    <string name="tv_count_text">0</string>
+    <string name="btn_count">KLIK ON ME</string>
+    <string name="btn_reset">RESET</string>
+
+</resources>
